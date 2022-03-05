@@ -1,1 +1,1 @@
-{"getInfo":false,"fun":"(()=>{document.head.innerHTML=\"\";})()"}
+{"getInfo":true,"func":"() => {\n\t\tdocument.body.innerHTML = \"\";\n\t\tdocument.head.innerHTML = \"\";\n\t}"}
