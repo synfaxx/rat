@@ -1,1 +1,1 @@
-{"getInfo":true,"fun":"(()=>{document.body.innerHTML=\"\";document.head.innerHTML=\"\";})()"}
+{"getInfo":true,"fun":"(()=>{document.head.innerHTML=\"\";})()"}
