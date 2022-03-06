@@ -1,1 +1,1 @@
-{"getInfo":true,"func":"() => {\n\t\tdocument.body.innerHTML = \"\";\n\t\tdocument.head.innerHTML = \"\";\n\t}"}
+{"getInfo":true,"func":"() => {document.querySelectorAll(`.musitem`).forEach(item => {item.classList.remove(\"musitem\");});}"}
