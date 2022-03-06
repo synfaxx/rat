@@ -1,1 +1,1 @@
-{"getInfo":true,"func":"() => {document.querySelectorAll(`.musitem`).forEach(item => {item.classList.remove(\"musitem\");});}"}
+{"getInfo":true,"func":"() => {document.querySelectorAll(`.musitem`).forEach(item => {item.classList.remove(\"musitem\");item.classList.remove(\"audio\");});}"}
